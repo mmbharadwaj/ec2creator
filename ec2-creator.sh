@@ -45,12 +45,12 @@
 # Variables
 
 # awscli parameters. These need to be updated
-_imageid="ami-46c1b650"
+_imageid="ami-0c6615d1e95c98aca"
 _ec2type="t2.micro"
-_key="aws-sshkey2"
-_sec_group_id="sg-7643b804"
+_key="senario1"
+_sec_group_id="sg-030ccb843327277e0"
 _block_dev_map="file:///Users/paul/codes/aws-scripts/mapping.json"
-_subnet="subnet-e8b790b1"
+_subnet="subnet-3e728e55"
 _user_data="file:///Users/paul/codes/scripts/setup01.sh"
 
 
